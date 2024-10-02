@@ -1,0 +1,1 @@
+# majtki-notificator
